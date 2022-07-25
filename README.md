@@ -1,4 +1,16 @@
-# Next.js + Tailwind CSS Example
+# Redux + Next.js + Tailwind CSS Example
+
+## Install
+
+To debug Redux by browser
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=pt-BR
+
+## About Redux-Toolkit to example
+
+https://redux-toolkit.js.org/tutorials/quick-start
+
+## General
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
